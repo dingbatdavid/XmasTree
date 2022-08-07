@@ -3,4 +3,4 @@
 The xmas-tree.py program allows the user to control the 3D RGB Christmas Tree via a GUI created with PiQt5
 the treegui.ui file is the GUI layout file used in PyQt5 and can be modified in qtdesigner
 
-![image](https://github.com/dingbatdavid/XmasTree/blob/master/Xmas-Tree%20GUI.png?=400x250)
+![image](https://github.com/dingbatdavid/XmasTree/blob/master/Xmas-Tree%20GUI.png?=200x250)
